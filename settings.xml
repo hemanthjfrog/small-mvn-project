@@ -1,0 +1,14 @@
+<settings>
+<servers>
+<server>
+    <id>central</id>
+	<username>${username}</username>
+    <password>${password}</password>
+</server>
+<server>
+    <id>snapshots</id>
+	<username>${username}</username>
+    <password>${password}</password>
+</server>
+</servers>
+</settings>
