@@ -1,13 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
  <modelVersion>4.0.0</modelVersion>
 
- <groupId>com.jfrog.jcenterPerf</groupId>
+ <groupId>com.jfrog.jcenterperf</groupId>
  <artifactId>${artId}</artifactId>
  <version>1.0</version>
  <packaging>jar</packaging>
 
  <name>${artId}</name>
- <description>A demo for deployment to the Central Repository via OSSRH</description>
+ <description>A demo for deployment to the Artifactory Maven Repository</description>
  <url>http://github.com/simpligility/ossrh-demo</url>
  <licenses>
   <license>
@@ -24,9 +24,9 @@
   </developer>
  </developers>
  <scm>
-  <connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection>
-  <developerConnection>scm:git:ssh://github.com:simpligility/ossrh-demo.git</developerConnection>
-  <url>http://github.com/simpligility/ossrh-demo/tree/master</url>
+  <connection>scm:git:git://github.com/hemanthjfrog/small-mvn-project.git</connection>
+  <developerConnection>scm:git:ssh://github.com:hemanthjfrog/small-mvn-project.git</developerConnection>
+  <url>http://github.com/hemanthjfrog/small-mvn-project/tree/master</url>
  </scm>
 
  <distributionManagement>

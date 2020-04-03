@@ -1,4 +1,4 @@
-package com.simplgility.training;
+package com.jfrog.jcenterperf;
 
 /**
  * Hello world!

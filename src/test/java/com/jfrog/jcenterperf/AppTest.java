@@ -1,4 +1,4 @@
-package com.simplgility.training;
+package com.jfrog.jcenterperf;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
