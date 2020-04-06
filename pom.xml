@@ -32,10 +32,12 @@
  <distributionManagement>
   <snapshotRepository>
    <id>snapshots</id>
+   <name>artifactory-ha-jc-artifactory-ha-member-0-snapshots</name>
    <url>${snapshotsUrl}</url>
   </snapshotRepository>
   <repository>
    <id>central</id>
+   <name>artifactory-ha-jc-artifactory-ha-member-0-releases</name>
    <url>${centralUrl}</url>
   </repository>
  </distributionManagement>
